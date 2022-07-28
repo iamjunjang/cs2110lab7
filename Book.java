@@ -4,7 +4,7 @@ public class Book {
     String author;
 
     /** Create a new book with title b. */
-    public Book(String t, Strong a) {
+    public Book(String t, String a) {
         title= t;
         author= a;
     }
